@@ -55,6 +55,6 @@
 
 ???
 
-<a href='https://learn.co/lessons/quiz' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/quiz' title='Curriculum Overview'>Curriculum Overview</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/quiz'>Quiz</a> on Learn.co and start learning to code for free.</p>
