@@ -1,4 +1,4 @@
-# Curriculum Overview Quiz
+# Curriculum Overview
 
 ???
 
@@ -52,9 +52,6 @@
 ( ) email us at Flatiron and let us know
 ( ) raise an issue in the repository letting us know it’s ready for review
 
-
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/quiz' title='Curriculum Overview'>Curriculum Overview</a> on Learn.co and start learning to code for free.</p>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/quiz'>Quiz</a> on Learn.co and start learning to code for free.</p>
+<p class="util--hide">View <a href='https://learn.co/lessons/quiz' title='Curriculum Overview'>Curriculum Overview</a> on Learn.co and start learning to code for free.</p>
